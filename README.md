@@ -5,6 +5,7 @@ An NALU is a combination of two Neural Accumulators (NACs) with a sigmoidal gate
 example addition subtraction. The NALU, as name suggests, is an arithmetic and Logical unit. So it can perform any computable operations (even counting).
 
 ## Structure of NALU
+
 |![NALU and NAC](./images/nalu.jpg)|
 |:--------------------------------:|
 |Structure of NAC and NALU|
